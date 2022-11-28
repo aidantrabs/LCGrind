@@ -15,5 +15,5 @@
 
 ## WE ON DA GRIND BOYS
 
-- jk, I do this for fun
+jk, I do this for fun
 https://leetcode.com/aidantraboulay/
